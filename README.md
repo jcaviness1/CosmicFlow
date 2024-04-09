@@ -8,3 +8,5 @@ Includes dark theme! Users can easily toggle between light and dark theme in app
 
 -Utilized cloud firestore messaging in order to implement messaging between users. 
 
+
+
