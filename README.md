@@ -1,6 +1,6 @@
 # CosmicFlow
 
-Cosmic-themed messaging app that utilizes Flutter and Firebase. 
+Cosmic-themed messaging app that utilizes Flutter and Firebase. Downloadable apk file available as demo.
 
 Includes dark theme! Users can easily toggle between light and dark theme in app settings, further personalizing their experience. 
 
